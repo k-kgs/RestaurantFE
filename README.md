@@ -1,0 +1,2 @@
+# RestaurantFE
+Angular client app
